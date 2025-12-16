@@ -24,7 +24,7 @@ Visualization of predicted vs. actual market movement
 
 Modular architecture for research extension, customization, and deployment
 Project Structure
-📦 neural-investment-forecasting
+ neural-investment-forecasting
 │
 ├── config.py                # Hyperparameters and global settings
 ├── data.py                  # Data download, cleaning, feature engineering, sequencing
