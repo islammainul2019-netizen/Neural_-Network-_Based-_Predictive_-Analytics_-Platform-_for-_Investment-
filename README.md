@@ -1,4 +1,8 @@
 # Neural_-Network-_Based-_Predictive_-Analytics_-Platform-_for-_Investment
+Author & Ownership
+This open-source project was independently designed, implemented,
+and released by Md Mainul Islam.
+
 This repository contains an end-to-end machine learning pipeline for forecasting financial market trends using deep learning. It leverages multi-feature engineering, LSTM neural architectures, and robust evaluation metrics to predict short-term market movements for investment decision support.
 Key Features
 
